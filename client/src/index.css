@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  font-family:  -apple-system, BlinkMacSystemFont, sans-serif;  
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #e0f2ff;
+  background: -webkit-linear-gradient(to bottom,#ecf8e8,#bde4ff);
+  background: linear-gradient(to bottom,#ecf8e8,#bde4ff);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+
+}
+
+
